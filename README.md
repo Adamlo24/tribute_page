@@ -31,3 +31,15 @@ However, keep in mind that you should absolutely not leave the entire project fo
 Take advantage of office hours and check in with your instructional team if you ever have questions!
 ![Timeline](./images/timeline.png)
 
+## Evaluation Rubric
+Your instructor will review your project and evaluate it against the rubric below. You will receive a score of 0–3 for each criterion:
+  0: Missing/incomplete
+  1: Does not meet expectations
+  2: Meets expectations
+  3: Exceeds expectations
+
+Your grade will be the sum of these scores. All scores must be greater than 0 for a passing grade.
+
+![Rubric](./images/rubric.png)
+
+
