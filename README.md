@@ -1,4 +1,5 @@
 # Final Project Prompt
+![Computer](images/computer.webp)
 
 ## Prompt
 For the final project, you'll be designing and building a website of your choice. This project will test your knowledge of front-end web development and ask you to apply everything you've learned in this course. The result will be a website that you can add to your portfolio. You could create: a portfolio website; a marketing website for a startup or business; or a prototype for a simple web-app. Work with your instructor to create project goals that are realistic given the scope and timing of the class.
