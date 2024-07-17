@@ -1,1 +1,0 @@
-Akira Toriyama Tribute Page
